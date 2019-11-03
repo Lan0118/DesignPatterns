@@ -1,0 +1,6 @@
+G:\vs_studio\DesignPatterns\DesignPatterns\InnerObserver\bin\Debug\InnerObserver.exe.config
+G:\vs_studio\DesignPatterns\DesignPatterns\InnerObserver\bin\Debug\InnerObserver.exe
+G:\vs_studio\DesignPatterns\DesignPatterns\InnerObserver\bin\Debug\InnerObserver.pdb
+G:\vs_studio\DesignPatterns\DesignPatterns\InnerObserver\obj\Debug\InnerObserver.exe
+G:\vs_studio\DesignPatterns\DesignPatterns\InnerObserver\obj\Debug\InnerObserver.pdb
+G:\vs_studio\DesignPatterns\DesignPatterns\InnerObserver\obj\Debug\InnerObserver.csprojResolveAssemblyReference.cache

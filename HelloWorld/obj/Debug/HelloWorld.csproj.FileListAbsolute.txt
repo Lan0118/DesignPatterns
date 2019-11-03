@@ -1,0 +1,5 @@
+G:\vs_studio\DesignPatterns\DesignPatterns\HelloWorld\bin\Debug\HelloWorld.exe.config
+G:\vs_studio\DesignPatterns\DesignPatterns\HelloWorld\bin\Debug\HelloWorld.exe
+G:\vs_studio\DesignPatterns\DesignPatterns\HelloWorld\bin\Debug\HelloWorld.pdb
+G:\vs_studio\DesignPatterns\DesignPatterns\HelloWorld\obj\Debug\HelloWorld.exe
+G:\vs_studio\DesignPatterns\DesignPatterns\HelloWorld\obj\Debug\HelloWorld.pdb

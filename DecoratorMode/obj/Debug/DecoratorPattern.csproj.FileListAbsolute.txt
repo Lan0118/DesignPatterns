@@ -1,0 +1,6 @@
+G:\vs_studio\DesignPatterns\DesignPatterns\DecoratorMode\bin\Debug\DecoratorMode.exe.config
+G:\vs_studio\DesignPatterns\DesignPatterns\DecoratorMode\bin\Debug\DecoratorMode.exe
+G:\vs_studio\DesignPatterns\DesignPatterns\DecoratorMode\bin\Debug\DecoratorMode.pdb
+G:\vs_studio\DesignPatterns\DesignPatterns\DecoratorMode\obj\Debug\DecoratorMode.exe
+G:\vs_studio\DesignPatterns\DesignPatterns\DecoratorMode\obj\Debug\DecoratorMode.pdb
+G:\vs_studio\DesignPatterns\DesignPatterns\DecoratorMode\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache

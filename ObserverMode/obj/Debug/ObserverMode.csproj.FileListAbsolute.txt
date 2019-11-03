@@ -1,0 +1,6 @@
+G:\vs_studio\DesignPatterns\DesignPatterns\ObserverMode\bin\Debug\ObserverMode.exe.config
+G:\vs_studio\DesignPatterns\DesignPatterns\ObserverMode\bin\Debug\ObserverMode.exe
+G:\vs_studio\DesignPatterns\DesignPatterns\ObserverMode\bin\Debug\ObserverMode.pdb
+G:\vs_studio\DesignPatterns\DesignPatterns\ObserverMode\obj\Debug\ObserverMode.csprojResolveAssemblyReference.cache
+G:\vs_studio\DesignPatterns\DesignPatterns\ObserverMode\obj\Debug\ObserverMode.exe
+G:\vs_studio\DesignPatterns\DesignPatterns\ObserverMode\obj\Debug\ObserverMode.pdb
