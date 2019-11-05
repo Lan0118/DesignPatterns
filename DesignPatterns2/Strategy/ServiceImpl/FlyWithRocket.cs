@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using DesignPatterns.Strategy.Service;
+using StrategyPattern.Strategy.Service;
 
-namespace DesignPatterns.Strategy.ServiceImpl
+namespace StrategyPattern.Strategy.ServiceImpl
 {
     class FlyWithRocket : IFlyBehavior
     {

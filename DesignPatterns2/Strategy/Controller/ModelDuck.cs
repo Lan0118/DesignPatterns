@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using DesignPatterns.Strategy.Service;
-using DesignPatterns.Strategy.ServiceImpl;
+using StrategyPattern.Strategy.Service;
+using StrategyPattern.Strategy.ServiceImpl;
 
-namespace DesignPatterns.Strategy.Controller
+namespace StrategyPattern.Strategy.Controller
 {
     class ModelDuck : Duck
     {

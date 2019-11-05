@@ -7,11 +7,26 @@
     <ProjectGuid>{8E9D5BC9-632C-461B-A1EA-0D95635EF731}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FactoryMethod</RootNamespace>
-    <AssemblyName>FactoryMethod</AssemblyName>
+    <RootNamespace>AbstractFactory</RootNamespace>
+    <AssemblyName>AbstractFactory</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -45,7 +60,10 @@
   <ItemGroup>
     <Compile Include="BlackOlives.cs" />
     <Compile Include="Cheese.cs" />
+    <Compile Include="CheesePizza.cs" />
     <Compile Include="ChicagoPizzaIngredientFactory.cs" />
+    <Compile Include="ChicagoPizzaStore.cs" />
+    <Compile Include="ClamPizza.cs" />
     <Compile Include="Clams.cs" />
     <Compile Include="Dough.cs" />
     <Compile Include="EggPlant.cs" />
@@ -56,10 +74,13 @@
     <Compile Include="Mozzarella.cs" />
     <Compile Include="Mushroom.cs" />
     <Compile Include="NyPizzaIngredientFactory.cs" />
+    <Compile Include="NYPizzaStore.cs" />
     <Compile Include="Onion.cs" />
     <Compile Include="Pepperoni.cs" />
+    <Compile Include="PepperoniPizza.cs" />
     <Compile Include="Pizza.cs" />
     <Compile Include="PizzaIngredientFactory.cs" />
+    <Compile Include="PizzaStore.cs" />
     <Compile Include="PlumTomatoSauce.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -71,9 +92,22 @@
     <Compile Include="ThickCrustDough.cs" />
     <Compile Include="ThinCrustDough.cs" />
     <Compile Include="Veggies.cs" />
+    <Compile Include="VeggiesPizza.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

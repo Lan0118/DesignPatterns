@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using DesignPatterns.Strategy.ServiceImpl;
-using DesignPatterns.Strategy.Service;
+using StrategyPattern.Strategy.ServiceImpl;
+using StrategyPattern.Strategy.Service;
 
 /// <summary>
 /// Duck的派生类
 /// </summary>
-namespace DesignPatterns.Strategy.Controller
+namespace StrategyPattern.Strategy.Controller
 {
     public class MallardDuck : Duck
     {

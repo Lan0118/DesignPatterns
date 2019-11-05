@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPatterns.Strategy.Service
+namespace StrategyPattern.Strategy.Service
 {
     /// <summary>
     /// 呱呱叫行为

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FactoryMethod
+namespace AbstractFactory
 {
     /// <summary>
     /// 具体工厂者

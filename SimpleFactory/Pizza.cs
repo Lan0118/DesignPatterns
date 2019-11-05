@@ -22,6 +22,7 @@ namespace SimpleFactory
             return this.name;
         }
 
+
         public void prepare()
         {
             Console.WriteLine("Preparing..." + name);

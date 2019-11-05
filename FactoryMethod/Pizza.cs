@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FactoryMethod
+namespace AbstractFactory
 {
     /// <summary>
     /// 抽象产品类
@@ -36,7 +36,15 @@ namespace FactoryMethod
             Console.WriteLine("Boxing...");
         }
 
-        public string Name { get; set; }
+        public string getName()
+        {
+            return name;
+        }
+
+        public void setName(string name)
+        {
+            this.name = name;
+        }
 
         public string toString()
         {

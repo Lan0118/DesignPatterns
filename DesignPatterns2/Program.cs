@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using DesignPatterns.Strategy.Service;
-using DesignPatterns.Strategy.Controller;
-using DesignPatterns.Strategy.ServiceImpl;
+using StrategyPattern.Strategy.Service;
+using StrategyPattern.Strategy.Controller;
+using StrategyPattern.Strategy.ServiceImpl;
 
-namespace DesignPatterns
+namespace StrategyPattern
 {
     class Program
     {

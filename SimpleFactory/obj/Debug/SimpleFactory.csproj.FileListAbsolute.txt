@@ -4,3 +4,9 @@ G:\vs_studio\DesignPatterns\DesignPatterns\SimpleFactory\bin\Debug\SimpleFactory
 G:\vs_studio\DesignPatterns\DesignPatterns\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
 G:\vs_studio\DesignPatterns\DesignPatterns\SimpleFactory\obj\Debug\SimpleFactory.exe
 G:\vs_studio\DesignPatterns\DesignPatterns\SimpleFactory\obj\Debug\SimpleFactory.pdb
+G:\github\DesignPatterns\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+G:\github\DesignPatterns\SimpleFactory\obj\Debug\SimpleFactory.exe
+G:\github\DesignPatterns\SimpleFactory\obj\Debug\SimpleFactory.pdb
+G:\github\DesignPatterns\SimpleFactory\bin\Debug\SimpleFactory.exe
+G:\github\DesignPatterns\SimpleFactory\bin\Debug\SimpleFactory.pdb
+G:\github\DesignPatterns\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
