@@ -1,0 +1,7 @@
+G:\github\DesignPatterns\AdaptorPattern\bin\Debug\AdaptorPattern.exe.config
+G:\github\DesignPatterns\AdaptorPattern\bin\Debug\AdaptorPattern.exe
+G:\github\DesignPatterns\AdaptorPattern\bin\Debug\AdaptorPattern.pdb
+G:\github\DesignPatterns\AdaptorPattern\obj\Debug\AdaptorPattern.exe
+G:\github\DesignPatterns\AdaptorPattern\obj\Debug\AdaptorPattern.pdb
+G:\github\DesignPatterns\AdaptorPattern\bin\Debug\AdaptorPattern.exe.CodeAnalysisLog.xml
+G:\github\DesignPatterns\AdaptorPattern\bin\Debug\AdaptorPattern.exe.lastcodeanalysissucceeded
