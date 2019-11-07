@@ -1,0 +1,10 @@
+D:\Workspace\github\DesignPatterns\CommandPattern2\bin\Debug\netcoreapp2.1\CommandPattern2.deps.json
+D:\Workspace\github\DesignPatterns\CommandPattern2\bin\Debug\netcoreapp2.1\CommandPattern2.runtimeconfig.json
+D:\Workspace\github\DesignPatterns\CommandPattern2\bin\Debug\netcoreapp2.1\CommandPattern2.runtimeconfig.dev.json
+D:\Workspace\github\DesignPatterns\CommandPattern2\bin\Debug\netcoreapp2.1\CommandPattern2.dll
+D:\Workspace\github\DesignPatterns\CommandPattern2\bin\Debug\netcoreapp2.1\CommandPattern2.pdb
+D:\Workspace\github\DesignPatterns\CommandPattern2\obj\Debug\netcoreapp2.1\CommandPattern2.csproj.CoreCompileInputs.cache
+D:\Workspace\github\DesignPatterns\CommandPattern2\obj\Debug\netcoreapp2.1\CommandPattern2.AssemblyInfoInputs.cache
+D:\Workspace\github\DesignPatterns\CommandPattern2\obj\Debug\netcoreapp2.1\CommandPattern2.AssemblyInfo.cs
+D:\Workspace\github\DesignPatterns\CommandPattern2\obj\Debug\netcoreapp2.1\CommandPattern2.dll
+D:\Workspace\github\DesignPatterns\CommandPattern2\obj\Debug\netcoreapp2.1\CommandPattern2.pdb
