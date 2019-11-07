@@ -3,3 +3,9 @@
 ################################################################################
 
 /DecoratorMode/obj/Debug
+/DesignPatterns2/obj/Debug
+/FactoryMethod/obj/Debug
+/InnerObserver/obj/Debug
+/ObserverMode/obj/Debug
+/SimpleFactory/obj/Debug
+/.vs/DesignPatterns/v15
