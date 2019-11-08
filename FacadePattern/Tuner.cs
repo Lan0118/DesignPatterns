@@ -1,5 +1,5 @@
 ﻿using System;
-namespace AdaptorPattern
+namespace FacadePattern
 {
     public class Tuner
     {
@@ -33,7 +33,7 @@ namespace AdaptorPattern
             Console.WriteLine(description + " setting FM mode");
         }
 
-        public string toString()
+        public string getDescription()
         {
             return description;
         }

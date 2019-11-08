@@ -43,8 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Amplifer.cs" />
+    <Compile Include="CDPlayer.cs" />
+    <Compile Include="DVDPlayer.cs" />
+    <Compile Include="HomeTheaterFacade.cs" />
+    <Compile Include="PopcornPopper.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Projector.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Screen.cs" />
+    <Compile Include="TheaterLights.cs" />
+    <Compile Include="Tuner.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
