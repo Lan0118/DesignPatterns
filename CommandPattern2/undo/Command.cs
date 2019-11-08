@@ -2,13 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CommandPattern2
+namespace CommandPattern2.undo
 {
-    /// <summary>
-    /// 命令接口
-    /// </summary>
     public interface Command
     {
         void execute();
+        void undo();
     }
 }

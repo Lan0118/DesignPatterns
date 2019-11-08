@@ -8,3 +8,4 @@ D:\Workspace\github\DesignPatterns\CommandPattern2\obj\Debug\netcoreapp2.1\Comma
 D:\Workspace\github\DesignPatterns\CommandPattern2\obj\Debug\netcoreapp2.1\CommandPattern2.AssemblyInfo.cs
 D:\Workspace\github\DesignPatterns\CommandPattern2\obj\Debug\netcoreapp2.1\CommandPattern2.dll
 D:\Workspace\github\DesignPatterns\CommandPattern2\obj\Debug\netcoreapp2.1\CommandPattern2.pdb
+D:\Workspace\github\DesignPatterns\CommandPattern2\obj\Debug\netcoreapp2.1\CommandPattern2.csprojAssemblyReference.cache

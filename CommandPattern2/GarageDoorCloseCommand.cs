@@ -18,5 +18,6 @@ namespace CommandPattern2
             garageDoor.lightOff();
             garageDoor.down();
         }
+
     }
 }
