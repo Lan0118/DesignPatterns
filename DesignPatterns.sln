@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.779
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "DesignPatterns2\StrategyPattern.csproj", "{2A33F6DE-3E85-4DB5-9808-9D67211085AE}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{EB70B4BF-C436-4629-8EA7-318DF0F49318}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePattern", "TemplatePattern\TemplatePattern.csproj", "{5E1ABF81-70FB-4F78-B754-8DE1E1A63DC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{9E4F1207-4880-495C-BB24-2A766F853447}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{5E1ABF81-70FB-4F78-B754-8DE1E1A63DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E1ABF81-70FB-4F78-B754-8DE1E1A63DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E1ABF81-70FB-4F78-B754-8DE1E1A63DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4F1207-4880-495C-BB24-2A766F853447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4F1207-4880-495C-BB24-2A766F853447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4F1207-4880-495C-BB24-2A766F853447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4F1207-4880-495C-BB24-2A766F853447}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+G:\github\DesignPatterns\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+G:\github\DesignPatterns\IteratorPattern\bin\Debug\IteratorPattern.exe
+G:\github\DesignPatterns\IteratorPattern\bin\Debug\IteratorPattern.pdb
+G:\github\DesignPatterns\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+G:\github\DesignPatterns\IteratorPattern\obj\Debug\IteratorPattern.exe
+G:\github\DesignPatterns\IteratorPattern\obj\Debug\IteratorPattern.pdb
