@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using StrategyPattern.Strategy.ServiceImpl;
 using StrategyPattern.Strategy.Service;
+using DesignPatterns.Strategy.ServiceImpl;
+using StrategyPattern.Strategy.ServiceImpl;
 
 /// <summary>
 /// Duck的派生类

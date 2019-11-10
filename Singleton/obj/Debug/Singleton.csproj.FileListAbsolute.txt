@@ -1,0 +1,5 @@
+G:\github\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+G:\github\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+G:\github\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+G:\github\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+G:\github\DesignPatterns\Singleton\obj\Debug\Singleton.pdb

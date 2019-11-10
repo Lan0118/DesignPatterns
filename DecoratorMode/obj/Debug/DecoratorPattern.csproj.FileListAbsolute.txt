@@ -4,3 +4,9 @@ G:\vs_studio\DesignPatterns\DesignPatterns\DecoratorMode\bin\Debug\DecoratorMode
 G:\vs_studio\DesignPatterns\DesignPatterns\DecoratorMode\obj\Debug\DecoratorMode.exe
 G:\vs_studio\DesignPatterns\DesignPatterns\DecoratorMode\obj\Debug\DecoratorMode.pdb
 G:\vs_studio\DesignPatterns\DesignPatterns\DecoratorMode\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
+G:\github\DesignPatterns\DecoratorMode\bin\Debug\DecoratorMode.exe.config
+G:\github\DesignPatterns\DecoratorMode\bin\Debug\DecoratorMode.exe
+G:\github\DesignPatterns\DecoratorMode\bin\Debug\DecoratorMode.pdb
+G:\github\DesignPatterns\DecoratorMode\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
+G:\github\DesignPatterns\DecoratorMode\obj\Debug\DecoratorMode.exe
+G:\github\DesignPatterns\DecoratorMode\obj\Debug\DecoratorMode.pdb

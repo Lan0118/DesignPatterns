@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using DesignPatterns.Strategy.Service;
+using StrategyPattern.Strategy.Service;
 
 namespace DesignPatterns.ServiceImpl
 {

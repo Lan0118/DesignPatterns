@@ -15,7 +15,7 @@ namespace StrategyPattern.Strategy.Controller
         public ModelDuck()
         {
             flyBehavior = new FlyNoWay();
-            quackBehavior = new Quack();
+            quackBehavior = new DesignPatterns.Strategy.ServiceImpl.Quack();
         }
 
         public override void display()

@@ -1,0 +1,6 @@
+G:\github\DesignPatterns\CompisitePattern\bin\Debug\CompisitePattern.exe.config
+G:\github\DesignPatterns\CompisitePattern\bin\Debug\CompisitePattern.exe
+G:\github\DesignPatterns\CompisitePattern\bin\Debug\CompisitePattern.pdb
+G:\github\DesignPatterns\CompisitePattern\obj\Debug\CompisitePattern.exe
+G:\github\DesignPatterns\CompisitePattern\obj\Debug\CompisitePattern.pdb
+G:\github\DesignPatterns\CompisitePattern\obj\Debug\CompisitePattern.csprojResolveAssemblyReference.cache
