@@ -1,0 +1,6 @@
+G:\github\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+G:\github\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.exe
+G:\github\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.pdb
+G:\github\DesignPatterns\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache
+G:\github\DesignPatterns\ProxyPattern\obj\Debug\ProxyPattern.exe
+G:\github\DesignPatterns\ProxyPattern\obj\Debug\ProxyPattern.pdb
