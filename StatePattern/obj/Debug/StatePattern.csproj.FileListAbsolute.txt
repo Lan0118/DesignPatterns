@@ -1,0 +1,6 @@
+G:\github\DesignPatterns\StatePattern\bin\Debug\StatePattern.exe.config
+G:\github\DesignPatterns\StatePattern\bin\Debug\StatePattern.exe
+G:\github\DesignPatterns\StatePattern\bin\Debug\StatePattern.pdb
+G:\github\DesignPatterns\StatePattern\obj\Debug\StatePattern.exe
+G:\github\DesignPatterns\StatePattern\obj\Debug\StatePattern.pdb
+G:\github\DesignPatterns\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
